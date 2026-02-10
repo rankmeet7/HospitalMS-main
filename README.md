@@ -29,7 +29,7 @@ Follow these instructions to set up and run the project locally on your Machine.
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/tauseedzaman/hospitalMS.git
+   git clone https://github.com/rankmeet7/HospitalMS-main.git
 ```
  ```bash
    cd hospitalMS
@@ -63,6 +63,3 @@ Password:
 ```bash
 tauseed
 ```
-
-## If you like our project please leave a star ❤
-
